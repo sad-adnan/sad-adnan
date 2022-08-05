@@ -1,9 +1,10 @@
 [![MasterHead](https://cdn.buymeacoffee.com/uploads/project_updates/2022/08/8c5a590d0362ce31649866f900d10f15.png@1200w_0e.webp)](https://play.google.com/store/apps/dev?id=7071097080167673760)
 <h1 align="center">Hi 👋, I'm MD. Sad Adnan</h1>
 <h3 align="center">I'm a Developer who loves to create professional apps for people.</h3>
-
-<p align="center" width="50%">
-    <img align="center" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+<br>
+<p>
+    <img alt="PROFILE" width="50%" height="500px" src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2022/08/44cc1d79703e6711c26ce10333085829.jpg@300w_0e.webp">
+    <img align="right" alt="Coding" width="50%" height="500px" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 </p>
 
 <br>
