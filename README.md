@@ -1,297 +1,451 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6DFF,100:C822FF&height=230&section=header&text=MD.%20Sad%20Adnan&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Mobile%20Apps%20Developer%20%7C%20Computer%20Engineer&descAlignY=52&descSize=18&descColor=CCCCCC" width="100%" />
-</div>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1e2e,60:1e3a5f,100:7b2ff7&height=250&section=header&text=MD.%20Sad%20Adnan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Mobile%20Apps%20Developer%20%E2%80%A2%20Computer%20Engineer&descAlignY=52&descSize=17&descColor=8b949e" width="100%" />
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=70&lines=%F0%9F%93%B1+Building+Solutions+for+Real+Life+Problems;%F0%9F%9A%80+<!--EXP_YEARS-->6+<!--/EXP_YEARS-->+Years+of+Mobile+App+Development" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Quick Links -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A6DFF&center=true&vCenter=true&random=false&width=600&lines=Building+Solutions+for+Real+Life+Problems;4%2B+Years+of+Mobile+App+Development;Flutter+%7C+Kotlin+%7C+Java+%7C+Dart;Crafting+Pixel-Perfect+Mobile+Experiences" alt="Typing SVG" /></a>
+
+  <a href="https://linkedin.com/in/sad-adnan"><img src="https://img.shields.io/badge/-sad--adnan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:sadadnan24@gmail.com"><img src="https://img.shields.io/badge/-sadadnan24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://sadadnan.com/"><img src="https://img.shields.io/badge/-sadadnan.com-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
+  <a href="https://play.google.com/store/apps/dev?id=7071097080167673760"><img src="https://img.shields.io/badge/-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=sad-adnan&label=Profile%20Views&color=7B2FF7&style=flat-square" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/sad-adnan?label=Followers&style=flat-square&color=7B2FF7&labelColor=0d1117" />
+
 </div>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- About Me -->
+
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+
+> *Passionate about crafting pixel-perfect mobile experiences that solve real-world problems*
+
+```yaml
+name: MD. Sad Adnan
+located_in: Bangladesh
+current_role: Mobile Application Developer @ Fanfare Bangladesh Ltd.
+experience: 6+ years in Mobile App Development
+
+education:
+  - M.Sc in CSE — Daffodil International University
+  - B.Sc in CSE — Daffodil International University
+
+fields_of_interest:
+  - Mobile App Development
+  - Cross-Platform Solutions
+  - UI/UX Engineering
+  - E-Governance & EdTech
+
+currently_learning: Advanced Flutter Animations & AI Integration
+fun_fact: "আমি খিচুড়ি খেতে ভালোবাসি (I love to eat khichuri)"
+```
+
+<br/>
+
 <div align="center">
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=sad-adnan&label=Profile%20Views&color=1A6DFF&style=for-the-badge)](https://github.com/sad-adnan)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sad-adnan)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadadnan24@gmail.com)
-  [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sadadnan.com/)
-  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7071097080167673760)
+  <a href="https://drive.google.com/file/d/1EhnnPjmSZB-JW_AwAIXzWFIdO7e3wTL1/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/📄_Download_My_Resume-7B2FF7?style=for-the-badge&logoColor=white" />
+  </a>
 
 </div>
-
-<br/>
-
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
-
-## &nbsp;About Me
-
-I'm a **Mobile Apps Developer & Computer Engineer** from Bangladesh who loves programming and building solutions that solve real-life problems.
-
-- **Currently** &mdash; Mobile Application Developer @ [Fanfare Bangladesh Ltd.](https://fanfarebd.com/)
-- **Previously** &mdash; Software Engineer @ [Orange Business Development Ltd.](https://orangebd.com/) *(4+ years)*
-- **Education** &mdash; M.Sc & B.Sc in CSE from Daffodil International University
-- **Passion** &mdash; Crafting polished, user-centric mobile experiences
-- **Fun fact** &mdash; আমি খিচুড়ি খেতে ভালোবাসি *(I love to eat khichuri)*
-
-<br/>
-
-📄 **[Download My Resume](https://drive.google.com/file/d/1EhnnPjmSZB-JW_AwAIXzWFIdO7e3wTL1/view?usp=drivesdk)**
 
 <br clear="right"/>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Tech Stack Section -->
-## &nbsp;Tech Stack
+<!-- Tech Stack -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### Core Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=dark" />
+</a>
 
-### Tools & Platforms
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+#### Web & Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,html,css,bootstrap&theme=dark" />
+</a>
+
+#### Database & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite&theme=dark" />
+</a>
+
+#### Tools & Design
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode,unity&theme=dark" />
+</a>
 
 </div>
 
----
+<br/>
 
-<!-- Work Experience Section -->
-## &nbsp;Work Experience
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Work Experience -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Work Experience
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  📱  Mobile Application Developer                                          │
+│  🏢  Fanfare Bangladesh Ltd.               📅  Aug 2024 — Present          │
+│  ─────────────────────────────────────────────────────────────────────      │
+│  • Building Fanfare BD — a social media app with e-commerce                │
+│  • Developed image/video editor & redesigned content creation page         │
+│  • Implemented dynamic video delivery & engagement features                │
+│  • Built platform safety: blocking, reporting & content sharing            │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  💻  Software Engineer                                                      │
+│  🏢  Orange Business Development Ltd.      📅  Mar 2020 — Jul 2024         │
+│  ─────────────────────────────────────────────────────────────────────      │
+│  • Designed & deployed innovative mobile applications for 4+ years         │
+│  • Built government & enterprise solutions (EdTech, E-Gov, Judiciary)      │
+│  • Leveraged market insights & user feedback to enhance UX                 │
+│  • Delivered apps serving millions of citizens nationwide                   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Featured Projects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="100" align="center">
-  <img src="https://img.shields.io/badge/2024--Present-1A6DFF?style=flat-square&logoColor=white" />
+<td width="50%" valign="top">
+
+<h3 align="center">Fanfare BD</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Social_Media_+_E--Commerce-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2024_—_Present-1e3a5f?style=flat-square" />
+</p>
+
+```
+📱 Multimedia content platform
+🎬 Image & Video Editor
+👥 User & Brand mentions
+📹 Dynamic video delivery
+🔄 Post sharing & engagement
+🛡️ Block, hide & report system
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+
 </td>
-<td>
-  <strong>Mobile Application Developer</strong> &mdash; <a href="https://fanfarebd.com/">Fanfare Bangladesh Ltd.</a><br/>
-  <sub>Building features for Fanfare BD, a social media app with e-commerce. Worked on image/video editing, redesigned content creation with user & brand mentions, dynamic video delivery, and platform safety features including blocking, reporting & content sharing.</sub>
+<td width="50%" valign="top">
+
+<h3 align="center">Muktopaath</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Education_Platform-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2021_—_2024-1e3a5f?style=flat-square" />
+</p>
+
+```
+🎓 Online education platform
+🏫 Organization & tutor onboarding
+📹 Video lectures & documents
+📝 Quizzes & exam evaluation
+🏆 Shareable certifications
+✅ Platform verification system
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+</p>
+
 </td>
 </tr>
 <tr>
-<td width="100" align="center">
-  <img src="https://img.shields.io/badge/2020--2024-C822FF?style=flat-square&logoColor=white" />
+<td width="50%" valign="top">
+
+<h3 align="center">EMASBD</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Education_Management-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2020_—_2024-1e3a5f?style=flat-square" />
+</p>
+
+```
+🏫 SaaS education management
+👨‍🎓 Student portal & dashboard
+👨‍👩‍👦 Parent monitoring system
+👨‍🏫 Teacher class management
+📊 Attendance, fees & exam marks
+📅 Routines & syllabus tracking
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+
 </td>
-<td>
-  <strong>Software Engineer</strong> &mdash; <a href="https://orangebd.com/">Orange Business Development Ltd.</a><br/>
-  <sub>Designed, developed, and deployed innovative mobile applications over 4+ years. Leveraged market insights and user feedback to refine features, enhance UX, and drive user engagement across multiple government and enterprise projects.</sub>
+<td width="50%" valign="top">
+
+<h3 align="center">Safebite</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Food_Safety_Mgmt-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2023_—_2024-1e3a5f?style=flat-square" />
+</p>
+
+```
+🍽️ Restaurant food safety
+👨‍🍳 Chef task management
+📋 Menu setup & tracking
+⏱️ Food safety timers
+⚠️ Auto corrective actions
+👥 Employee management
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Swipe & Study</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tutor_Booking-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2023_—_2024-1e3a5f?style=flat-square" />
+</p>
+
+```
+📚 Cross-platform tutor booking
+🎯 Smart student-teacher matching
+✅ Teacher verification system
+💬 In-app chat & messaging
+📅 Session booking & scheduling
+🔍 Subject preference matching
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Kalbela</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/News_Platform-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2023-1e3a5f?style=flat-square" />
+</p>
+
+```
+📰 Leading BD newspaper app
+📄 E-Paper digital edition
+🎥 Video news streaming
+📍 Local area news search
+📱 Story-format short news
+🔔 Breaking news alerts
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Sisimpur</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Child_Education-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2020_—_2023-1e3a5f?style=flat-square" />
+</p>
+
+```
+🧒 Children's development
+🎥 Educative video content
+📖 Interactive story books
+🎮 Educational games
+👨‍👩‍👧 Parent-child activities
+🌱 Next-gen learning
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Raindog</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Salon_Management-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2023_—_2024-1e3a5f?style=flat-square" />
+</p>
+
+```
+💇 Salon discovery & booking
+🗺️ Map-based salon search
+📅 Appointment scheduling
+👨‍💼 Provider business portal
+⭐ Customer reviews & ratings
+🔔 Real-time notifications
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">MyCourt</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Causelist_Mgmt-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2022_—_2024-1e3a5f?style=flat-square" />
+</p>
+
+```
+⚖️ E-Causelist management
+👨‍⚖️ Judiciary portal for judges
+👨‍💼 Dedicated lawyer portal
+👥 Citizen case tracking
+📋 Digital case management
+🏛️ Court system digitization
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">LGD Sheba</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Govt_Services-7B2FF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/2021_—_2023-1e3a5f?style=flat-square" />
+</p>
+
+```
+🏛️ Local government portal
+📜 Certificate applications
+💳 Online payment system
+✅ Officer verification flow
+📊 Chairman area statistics
+🔔 Status notifications
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+
 </td>
 </tr>
 </table>
 
----
+</div>
 
-<!-- Featured Projects Section -->
-## &nbsp;Featured Projects
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Open Source -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="28" /> &nbsp;Open Source Libraries
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Fanfare BD
-**Social Media App with E-Commerce**
-<sub>2024 &ndash; Present</sub>
-
-> Multimedia content platform with image/video editor, user & brand mentions, dynamic video delivery, and engagement features.
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### Muktopaath
-**Education Platform**
-<sub>2021 &ndash; 2024</sub>
-
-> Online education platform for Android. Organizations create courses with videos, docs, quizzes & exams. Learners earn shareable certifications.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### EMASBD
-**Education Management System**
-<sub>2020 &ndash; 2024</sub>
-
-> SaaS platform for education organizations. Students, parents & teachers manage classrooms, routines, attendance, fees & exam results.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### Safebite
-**Restaurant Food Safety Management**
-<sub>2023 &ndash; 2024</sub>
-
-> Restaurants register employees, setup menus & tasks. Chefs prepare items with food safety standards. Auto-prompts corrective actions on safety concerns.
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Swipe & Study
-**Tutor Booking App**
-<sub>2023 &ndash; 2024</sub>
-
-> Cross-platform tutor booking. Students set preferences, teachers get verified, smart matching connects them. Features in-app chat & session booking.
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### Kalbela
-**News Platform**
-<sub>2023</sub>
-
-> Digital news app for one of Bangladesh's leading newspapers. Features E-Paper, video news, local area search, and story-format short news.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Sisimpur
-**Child Education Platform**
-<sub>2020 &ndash; 2023</sub>
-
-> Next-gen children's development platform with educative videos, interactive books & games for kids and parents.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### Raindog
-**Salon Management App**
-<sub>2023 &ndash; 2024</sub>
-
-> Salon discovery & booking platform. Providers manage services, slots & employees. Customers find salons on maps, book appointments & leave reviews.
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### MyCourt
-**Causelist Management**
-<sub>2022 &ndash; 2024</sub>
-
-> E-causelist app for citizens, lawyers & judges. Lawyers access a dedicated portal, judges use the judiciary portal for case management.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### LGD Sheba
-**Local Government Services**
-<sub>2021 &ndash; 2023</sub>
-
-> Citizens apply & pay for government services (certificates, permits). Officers verify & approve. Chairmen view area statistics & analytics.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-</td>
-</tr>
-</table>
+  [![customToast](https://github-readme-stats.vercel.app/api/pin/?username=sad-adnan&repo=customToast&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7B2FF7&icon_color=7B2FF7&text_color=8b949e)](https://github.com/sad-adnan/customToast)
+  [![TourPatronV2](https://github-readme-stats.vercel.app/api/pin/?username=sad-adnan&repo=TourPatronV2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7B2FF7&icon_color=7B2FF7&text_color=8b949e)](https://github.com/sad-adnan/TourPatronV2)
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Open Source Libraries -->
-## &nbsp;Open Source
+<!-- Education -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" /> &nbsp;Education
 
 <div align="center">
 
-[![customToast](https://github-readme-stats.vercel.app/api/pin/?username=sad-adnan&repo=customToast&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sad-adnan/customToast)
-[![TourPatronV2](https://github-readme-stats.vercel.app/api/pin/?username=sad-adnan&repo=TourPatronV2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/sad-adnan/TourPatronV2)
+|  | Degree | Institution | Year |
+|:-:|:--|:--|:-:|
+| <img src="https://img.shields.io/badge/M.Sc-7B2FF7?style=flat-square" /> | **M.Sc in Computer Science & Engineering** | Daffodil International University | `2021 — 2022` |
+| <img src="https://img.shields.io/badge/B.Sc-1e3a5f?style=flat-square" /> | **B.Sc in Computer Science & Engineering** | Daffodil International University | `2016 — 2020` |
+| <img src="https://img.shields.io/badge/H.S.C-7B2FF7?style=flat-square" /> | **H.S.C — Science** | Holy Land College, Dinajpur | `2015` |
+| <img src="https://img.shields.io/badge/S.S.C-1e3a5f?style=flat-square" /> | **S.S.C — Science** | Tafiuddin Memorial High School, Dinajpur | `2013` |
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Education Section -->
-## &nbsp;Education
+<!-- Training -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> &nbsp;Training & Certifications
 
-<table>
-<tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/M.Sc-1A6DFF?style=flat-square" /></td>
-<td><strong>M.Sc in Computer Science & Engineering</strong> &mdash; Daffodil International University <sub>(2021 &ndash; 2022)</sub></td>
-</tr>
-<tr>
-<td align="center" width="80"><img src="https://img.shields.io/badge/B.Sc-C822FF?style=flat-square" /></td>
-<td><strong>B.Sc in Computer Science & Engineering</strong> &mdash; Daffodil International University <sub>(2016 &ndash; 2020)</sub></td>
-</tr>
-</table>
-
----
-
-<!-- Training & Certifications -->
-## &nbsp;Training & Certifications
+<div align="center">
 
 | | Training | Duration | Institute |
-|:-:|---|---|---|
-| ![cert](https://img.shields.io/badge/-02569B?style=flat-square&logo=flutter&logoColor=white) | Practical Flutter (iOS & Android) | Apr &ndash; Jun 2022 | Pencilbox Training Institute |
-| ![cert](https://img.shields.io/badge/-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | Modern Android Development with Kotlin | Mar &ndash; May 2021 | Pencilbox Training Institute |
-| ![cert](https://img.shields.io/badge/-3DDC84?style=flat-square&logo=android&logoColor=white) | BITM SEIP &ndash; Mobile App Development (Android) | May &ndash; Aug 2019 | BASIS |
+|:-:|:--|:-:|:--|
+| <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="22" /> | **Practical Flutter (iOS & Android)** | `Apr — Jun 2022` | Pencilbox Training Institute |
+| <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="22" /> | **Modern Android Development with Kotlin** | `Mar — May 2021` | Pencilbox Training Institute |
+| <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="22" /> | **BITM SEIP — Mobile App Development** | `May — Aug 2019` | BASIS |
 
----
-
-<!-- GitHub Stats Section -->
-## &nbsp;GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sad-adnan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A6DFF&icon_color=C822FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sad-adnan&theme=tokyonight&hide_border=true&background=0D1117&ring=1A6DFF&fire=C822FF&currStreakLabel=FFFFFF" />
 </div>
 
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sad-adnan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A6DFF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sad-adnan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7B2FF7&icon_color=7B2FF7&text_color=c9d1d9&ring_color=7B2FF7" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sad-adnan&hide_border=true&background=0d1117&ring=7B2FF7&fire=7B2FF7&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sad-adnan&layout=compact&hide_border=true&bg_color=0d1117&title_color=7B2FF7&text_color=c9d1d9" />
 </div>
 
 <br/>
@@ -300,36 +454,46 @@ I'm a **Mobile Apps Developer & Computer Engineer** from Bangladesh who loves pr
   <img src="https://github-profile-trophy.vercel.app/?username=sad-adnan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
----
+<br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sad-adnan&bg_color=0D1117&color=1A6DFF&line=C822FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sad-adnan&bg_color=0d1117&color=7B2FF7&line=7B2FF7&point=ffffff&area=true&area_color=7B2FF7&hide_border=true&custom_title=Contribution%20Graph" width="97%" />
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Support Section -->
+<!-- Snake -->
 <div align="center">
 
-### &nbsp;Support My Work
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sad-adnan/sad-adnan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sad-adnan/sad-adnan/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sad-adnan/sad-adnan/output/github-snake-dark.svg" />
+  </picture>
 
-<a href="https://www.buymeacoffee.com/sad_adnan">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Support -->
+<div align="center">
+
+  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" width="28" /> &nbsp;Support My Work
+
+  <a href="https://www.buymeacoffee.com/sad_adnan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="55" width="220" alt="Buy Me A Coffee" />
+  </a>
+
+  <br/><br/>
+
+  *If you find my work helpful, consider giving my repos a* ⭐
 
 </div>
 
 <br/>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sad-adnan/sad-adnan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sad-adnan/sad-adnan/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sad-adnan/sad-adnan/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A6DFF,100:C822FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1e2e,60:1e3a5f,100:7b2ff7&height=130&section=footer" width="100%" />
