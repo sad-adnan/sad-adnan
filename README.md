@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=70&lines=%F0%9F%93%B1+Building+Solutions+for+Real+Life+Problems;%F0%9F%9A%80+<!--EXP_YEARS-->5++<!--/EXP_YEARS-->+Years+of+Mobile+App+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=70&lines=%F0%9F%93%B1+Building+Solutions+for+Real+Life+Problems;%F0%9F%9A%80+<!--EXP_YEARS-->6++<!--/EXP_YEARS-->+Years+of+Mobile+App+Development" alt="Typing SVG" />
   </a>
 </p>
 
